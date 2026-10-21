@@ -1,0 +1,13 @@
+com/delivery/user/application/DefaultUserBlockStatusUseCaseTest$RecordingBlockStatusPort.class
+com/delivery/user/application/DefaultUserProfileUseCaseTest.class
+com/delivery/user/application/DefaultUserProfileUseCaseTest$RecordingProfilePort.class
+com/delivery/user/application/DefaultUserRegistrationUseCaseTest$1.class
+com/delivery/user/application/DefaultUserAddressUseCaseTest$RecordingAddressPort.class
+com/delivery/user/application/DefaultUserRegistrationUseCaseTest.class
+com/delivery/user/application/DefaultUserIdentityStatusUseCaseTest.class
+com/delivery/user/application/DefaultUserAddressAccessUseCaseTest.class
+com/delivery/user/application/DefaultUserAddressUseCaseTest.class
+com/delivery/user/application/DefaultUserProfileReadUseCaseTest$RecordingProfileReadPort.class
+com/delivery/user/application/DefaultUserBlockStatusUseCaseTest.class
+com/delivery/user/application/DefaultUserProfileReadUseCaseTest.class
+com/delivery/user/application/DefaultUserAddressAccessUseCaseTest$Reads.class

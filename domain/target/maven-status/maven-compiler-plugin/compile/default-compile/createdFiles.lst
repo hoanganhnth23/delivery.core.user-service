@@ -1,0 +1,6 @@
+com/delivery/user/domain/UserIdentityLifecycleRules.class
+com/delivery/user/domain/InvalidProvisioningIdentity.class
+com/delivery/user/domain/UserProvisioningRules.class
+com/delivery/user/domain/ProvisioningIdentityConflict.class
+com/delivery/user/domain/model/UserAddress.class
+com/delivery/user/domain/model/User.class

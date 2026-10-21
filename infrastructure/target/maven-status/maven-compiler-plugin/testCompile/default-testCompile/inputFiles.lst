@@ -1,0 +1,12 @@
+/Users/a/Documents/private/delivery/backend_delivery/user/infrastructure/src/test/java/com/delivery/user_service/InfrastructureMvcTestApplication.java
+/Users/a/Documents/private/delivery/backend_delivery/user/infrastructure/src/test/java/com/delivery/user_service/controller/InternalUserBlockStatusControllerTest.java
+/Users/a/Documents/private/delivery/backend_delivery/user/infrastructure/src/test/java/com/delivery/user_service/controller/UserAddressControllerAuthorizationTest.java
+/Users/a/Documents/private/delivery/backend_delivery/user/infrastructure/src/test/java/com/delivery/user_service/controller/UserControllerInternalAuthorizationTest.java
+/Users/a/Documents/private/delivery/backend_delivery/user/infrastructure/src/test/java/com/delivery/user_service/controller/UserRegistrationControllerTest.java
+/Users/a/Documents/private/delivery/backend_delivery/user/infrastructure/src/test/java/com/delivery/user_service/dto/UserRequestValidationTest.java
+/Users/a/Documents/private/delivery/backend_delivery/user/infrastructure/src/test/java/com/delivery/user_service/exception/GlobalExceptionHandlerTest.java
+/Users/a/Documents/private/delivery/backend_delivery/user/infrastructure/src/test/java/com/delivery/user_service/migration/UserFlywayMigrationTest.java
+/Users/a/Documents/private/delivery/backend_delivery/user/infrastructure/src/test/java/com/delivery/user_service/service/ProvisioningTokenVerifierTest.java
+/Users/a/Documents/private/delivery/backend_delivery/user/infrastructure/src/test/java/com/delivery/user_service/service/UserAddressConcurrencyTest.java
+/Users/a/Documents/private/delivery/backend_delivery/user/infrastructure/src/test/java/com/delivery/user_service/service/UserServiceAdminListTest.java
+/Users/a/Documents/private/delivery/backend_delivery/user/infrastructure/src/test/java/com/delivery/user_service/service/UserServiceProvisioningTest.java

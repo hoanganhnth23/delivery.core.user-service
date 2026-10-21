@@ -1,0 +1,11 @@
+com/delivery/user_service/controller/InternalUserBlockStatusControllerTest.class
+com/delivery/user_service/dto/UserRequestValidationTest.class
+com/delivery/user_service/controller/UserAddressControllerAuthorizationTest.class
+com/delivery/user_service/exception/GlobalExceptionHandlerTest.class
+com/delivery/user_service/migration/UserFlywayMigrationTest.class
+com/delivery/user_service/InfrastructureMvcTestApplication.class
+com/delivery/user_service/controller/UserRegistrationControllerTest.class
+com/delivery/user_service/service/UserServiceProvisioningTest.class
+com/delivery/user_service/controller/UserControllerInternalAuthorizationTest.class
+com/delivery/user_service/service/UserServiceAdminListTest.class
+com/delivery/user_service/service/UserAddressConcurrencyTest.class

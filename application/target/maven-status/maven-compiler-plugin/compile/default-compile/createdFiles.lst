@@ -1,0 +1,8 @@
+com/delivery/user/application/DefaultUserAddressUseCase.class
+com/delivery/user/application/DefaultUserIdentityStatusUseCase.class
+com/delivery/user/application/DefaultUserRegistrationUseCase.class
+com/delivery/user/application/DefaultUserAddressAccessUseCase.class
+com/delivery/user/application/DefaultUserProfileReadUseCase.class
+com/delivery/user/application/DefaultUserBlockStatusUseCase.class
+com/delivery/user/application/DefaultUserProfileUseCase.class
+com/delivery/user/application/DefaultUserProfileUseCase$1.class

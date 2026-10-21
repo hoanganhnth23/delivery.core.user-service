@@ -1,0 +1,3 @@
+com/delivery/user/domain/UserProvisioningRulesTest.class
+com/delivery/user/domain/model/UserModelTest.class
+com/delivery/user/domain/UserIdentityLifecycleRulesTest.class
